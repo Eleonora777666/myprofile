@@ -1,1 +1,124 @@
-# myprofile
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Eleonora Fiseiska - Nexus AI Profile</title>
+</head>
+<body style="font-family: 'Segoe UI', Arial, sans-serif; padding: 40px; background-color: #f4f7f6; color: #2c3e50; line-height: 1.6;">
+
+    <div style="max-width: 800px; margin: auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05); margin-bottom: 30px;">
+        <h1 style="color: #34495e; font-size: 28px; margin-bottom: 5px;">Eleonora Fiseiska</h1>
+        <h2 style="color: #7f8c8d; font-size: 20px; margin-top: 0;">Hello, Welcome to my page ...!!!</h2>
+        
+        <p style="margin-top: 20px;">This is a paragraph about my project <strong style="color: #4a69bd;">Nexus AI</strong>.</p>
+
+        <div style="margin: 25px 0; padding: 15px; background: #fcfcfc; border-left: 4px solid #4a69bd; border-radius: 4px;">
+            📧 <strong>Contact me:</strong> 
+            <a href="mailto:0000247150@isma.lv" style="color: #4a69bd; text-decoration: none; font-weight: bold;">0000247150@isma.lv</a>
+        </div>
+
+        <h3 style="font-size: 18px; color: #34495e; margin-top: 40px; border-bottom: 1px solid #eee; padding-bottom: 10px;">Project Modules Status</h3>
+
+        <table style="width: 100%; border-collapse: collapse; margin-top: 15px; border-radius: 8px; overflow: hidden;">
+            <thead>
+                <tr style="background-color: #34495e; color: white; text-align: left;">
+                    <th style="padding: 15px;">Nr</th>
+                    <th style="padding: 15px;">Module Name</th>
+                    <th style="padding: 15px;">Status</th>
+                </tr>
+            </thead>
+            <tbody style="font-weight: 600; font-size: 15px;">
+                <tr style="background-color: #ffffff; color: #2ecc71;">
+                    <td style="padding: 15px; border-bottom: 1px solid #eee; color: #586776;">1</td>
+                    <td style="padding: 15px; border-bottom: 1px solid #eee; color: #586776;">Neural Core Interface</td>
+                    <td style="padding: 15px; border-bottom: 1px solid #eee;">Active</td>
+                </tr>
+                <tr style="background-color: #f9fbfb; color: #4a69bd;">
+                    <td style="padding: 15px; border-bottom: 1px solid #eee; color: #586776;">2</td>
+                    <td style="padding: 15px; border-bottom: 1px solid #eee; color: #586776;">Data Synchronization</td>
+                    <td style="padding: 15px; border-bottom: 1px solid #eee;">Testing</td>
+                </tr>
+                <tr style="background-color: #ffffff; color: #a55eea;">
+                    <td style="padding: 15px; border-bottom: 1px solid #eee; color: #586776;">3</td>
+                    <td style="padding: 15px; border-bottom: 1px solid #eee; color: #586776;">User Experience Logic</td>
+                    <td style="padding: 15px; border-bottom: 1px solid #eee;">Draft</td>
+                </tr>
+                <tr style="background-color: #f9fbfb; color: #e67e22;">
+                    <td style="padding: 15px; border-bottom: 1px solid #eee; color: #586776;">4</td>
+                    <td style="padding: 15px; border-bottom: 1px solid #eee; color: #586776;">Security Layer</td>
+                    <td style="padding: 15px; border-bottom: 1px solid #eee;">Planned</td>
+                </tr>
+                <tr style="background-color: #ffffff; color: #079992;">
+                    <td style="padding: 15px; border-bottom: 1px solid #eee; color: #586776;">5</td>
+                    <td style="padding: 15px; border-bottom: 1px solid #eee; color: #586776;">Advanced Analytics</td>
+                    <td style="padding: 15px; border-bottom: 1px solid #eee;">Active</td>
+                </tr>
+            </tbody>
+        </table>
+
+        <div style="margin-top: 25px; padding: 15px; background-color: #fff5f5; border: 1px solid #feb2b2; border-radius: 8px;">
+            <strong style="color: #c53030;">⚠️ Technical Note (Meeting Mar 12, 2026):</strong>
+            <p style="margin: 5px 0 0 0; font-size: 14px; color: #742a2a;">
+                Identified 3-5s latency issue in Data Synchronization module. Optimization for the communication protocol is in progress.
+            </p>
+        </div>
+    </div>
+
+    <div style="max-width: 800px; margin: auto; background: white; padding: 40px; border-radius: 12px; box-shadow: 0 4px 20px rgba(0,0,0,0.05);">
+        <div style="font-family: 'Times New Roman', Times, serif; color: #000; line-height: 1.2;">
+            <strong>Name Surname : Eleonora Fiseiska</strong><br>
+            <strong>Subject : Information Technology</strong><br>
+            <strong>Date : 12th March 2026</strong>
+        </div>
+        
+        <hr style="border: 0; border-top: 1px solid #ccc; margin: 20px 0;">
+        
+        <span style="font-family: 'Times New Roman', Times, serif; font-weight: bold; text-decoration: underline; font-size: 20px; margin: 15px 0; display: block; color: #09203D;">Form</span>
+        
+        <form>
+            <table style="font-family: 'Times New Roman', Times, serif; color: #000; width: 100%;">
+                <tr>
+                    <td style="width: 130px; font-weight: bold; padding: 8px 0;">First Name :</td>
+                    <td><input type="text" style="width: 100%; max-width: 300px; padding: 5px; border: 1px solid #ccc; border-radius: 3px;"></td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold; padding: 8px 0;">Last name :</td>
+                    <td><input type="text" style="width: 100%; max-width: 300px; padding: 5px; border: 1px solid #ccc; border-radius: 3px;"></td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold; padding: 8px 0;">Email :</td>
+                    <td><input type="email" style="width: 100%; max-width: 300px; padding: 5px; border: 1px solid #ccc; border-radius: 3px;"></td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold; padding: 8px 0;">Semester :</td>
+                    <td>
+                        <select style="width: 100%; max-width: 312px; padding: 5px; border: 1px solid #ccc; border-radius: 3px;">
+                            <option>1</option><option>2</option><option>3</option><option>4</option>
+                        </select>
+                    </td>
+                </tr>
+                <tr>
+                    <td style="font-weight: bold; padding: 8px 0;">Department :</td>
+                    <td>
+                        <select style="width: 100%; max-width: 312px; padding: 5px; border: 1px solid #ccc; border-radius: 3px;">
+                            <option>IT</option>
+                            <option>Management</option>
+                        </select>
+                    </td>
+                </tr>
+            </table>
+
+            <div style="margin-top: 25px; display: flex; gap: 10px;">
+                <button type="submit" style="padding: 10px 30px; border: none; border-radius: 4px; color: white; background-color: #2b7bb9; font-weight: bold; cursor: pointer;">Submit</button>
+                <button type="reset" style="padding: 10px 30px; border: none; border-radius: 4px; color: white; background-color: #34495e; font-weight: bold; cursor: pointer;">Clear</button>
+            </div>
+        </form>
+    </div>
+
+    <p style="text-align: center; color: #bdc3c7; font-size: 12px; margin-top: 30px;">
+        © 2026 ISMA Web Technologies • Eleonora Fiseiska Profile
+    </p>
+
+</body>
+</html>
